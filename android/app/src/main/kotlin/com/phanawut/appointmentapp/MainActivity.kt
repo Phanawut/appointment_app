@@ -1,4 +1,4 @@
-package com.example.phanawut_appointment_app_040
+package com.phanawut.appointmentapp
 
 import io.flutter.embedding.android.FlutterActivity
 
